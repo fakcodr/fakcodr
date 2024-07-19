@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Red Teamer and Computer Science (BCA) undergraduate from the Indraprastha University Delhi, India.</h3>
+<h3 align="center">Red Teamer and Computer Science (BCA) undergraduate from the Chandigarh University Delhi, India.</h3>
 <br />
 
 
