@@ -23,7 +23,7 @@
 
 <h3 align="left"> Reach out To me:</h3>
 
-<a href="https://www.linkedin.com/in/an0nud4y">
+<a href="https://www.linkedin.com/in/fakecoder/">
   <img align="left" alt="Shivam Sharma | Linkedin" width="20px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/linkedin.svg" />
 </a>
 
@@ -35,7 +35,7 @@
   <img align="left" alt="Shivam Sharma | Instagram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/instagram.svg" />
 </a>
 
-<a href="https://t.me/its_udy">
+<a href="https://t.me/">
   <img align="left" alt="Shivam Sharma | Telegram" width="21px" src="https://raw.githubusercontent.com/An0nUD4Y/An0nUD4Y/master/assets/telegram.png" />
 </a>
 
